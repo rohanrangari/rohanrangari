@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rohanrangari
-- 👀 I’m interested in Data Science| AWS | DBs | MlOps
-- 🌱 I’m currently learning GCP
-- 💞️ I’m looking to collaborate on ...DS Projects
-- 📫 How to reach me ...rohanrangari@gmail
+- 👀 I’m interested in Data Science| AWS | DBs | MlOps | ETL Pipelines
+- 🌱 I’m currently learning MLOps
+- 💞️ I’m looking to collaborate on ...DS Projects | ETL
+- 📫 How to reach me ...rohanrangari@gmail.com 
 
 <!---
 rohanrangari/rohanrangari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
