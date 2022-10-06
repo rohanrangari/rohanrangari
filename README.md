@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanrangari
 - 👀 I’m interested in Data Science| AWS | DBs | MlOps |
-- 💞️ I’m looking to collaborate on ...DS Projects | AWS | DevOps
+- 💞️ I’m looking to collaborate on ...DS Projects | AWS | MlOps 
 - 📫 How to reach me ...rohanrangari@gmail.com 
 
 <!---
